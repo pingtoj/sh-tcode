@@ -36,7 +36,4 @@ Expect a bit of everything (or nothing at all):
 ## Disclaimer
 This is not serious. At all. Proceed accordingly.😄
 
-
-
-
-                                                                                Made with too much ☕ and not enough planning.
+                                                   Made with too much ☕ and not enough planning.
